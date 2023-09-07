@@ -16,6 +16,10 @@
 			"Enabled": true
 		},
 		{
+			"Name": "WebBrowserWidget",
+			"Enabled": true
+		},
+		{
 			"Name": "EditorGitDifftool",
 			"Enabled": true
 		}
